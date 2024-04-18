@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ```C++, Python, Java```
 - 💬 Ask me about ```C++, raylib, Python```
 - 🤔 I’m looking for help with ```OpenGL, game engine dev```
-- 📫 How to reach me: ```@rockstarcroco``` on Twitter, ```u/rockstarcroc``` on Reddit
+- 📫 How to reach me: [```@rockstarcroco```](https://twitter.com/rockstarcroco) on Twitter, [```u/rockstarcroc```](https://reddit.com/u/rockstarcroc) on Reddit
 
 <!--
 **rockstarcroc/rockstarcroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
