@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm rockstarcroc
+**I'm rockstarcroc**
 
 - 🔭 I’m currently working on creating games for game jams
 - 🌱 I’m currently learning C++, Python, Java
